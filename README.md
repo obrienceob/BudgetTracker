@@ -7,7 +7,7 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Questions](#questions)
+
 
 ## Description
 Link to heroku deployed application: https://obscure-dusk-81782.herokuapp.com/
