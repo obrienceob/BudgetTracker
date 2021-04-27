@@ -1,3 +1,5 @@
+//used unit 18 activity 13 as example/starter code
+
 const CACHE_NAME = "static-cache-v2";
 const DATA_CACHE_NAME = "data-cache-v1";
 
@@ -6,7 +8,7 @@ const FILES_TO_CACHE = [
     '/index.html',
     'index.js',
     'db.js',
-    'style.css',
+    'styles.css',
 ];
 //install
 self.addEventListener("install", function (evt) {
